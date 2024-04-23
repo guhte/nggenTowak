@@ -1,4 +1,167 @@
 404: Not Found
+#EXTM3U
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/57c9c7ba-bcc7-4c30-8ad4-d4fab611a2b7.png" ,LNTV 1
+https://ctrl.laotv.la/live/LNTV1/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/47acb94e-a2a5-4fde-bd9f-a0ec148cdf86.png" ,LNTV 3 HD
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/42c67d3b-86e3-4e71-8f05-6677d1d31d3f.png" ,VTE 9
+https://ctrl.laotv.la/live/VTE9/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/4f032dfc-bfd4-4c69-982b-361b9a4795a4.png" ,LaoStar
+https://ctrl.laotv.la/live/LaoStar/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231016/video/e5a9fa09-0595-439b-a389-775982fab48d.png" ,LATV
+https://ctrl.laotv.la/live/LATV/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/fc251bad-66db-4d92-bbb4-d1aab661f56e.png" ,PSTV
+https://ctrl.laotv.la/live/PSTV/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230618/video/495e4d4d-76ac-480a-8168-520ce76ce7f1.png" ,MVLao
+https://ctrl.laotv.la/live/MVLao/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/7af47f1d-4a64-4d7c-9ab4-d39a6c88899f.png" ,Lao ESTV
+https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230323/video/d7c937f5-1f07-495c-9d69-eb974a91a83e.jpeg" ,OneHD
+https://ctrl.laotv.la/live/OneHD/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/7f72bd64-70c8-4d5a-ae7b-f78945688188.png" ,THAIRATH TV HD
+https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/01434d76-20b4-4283-9988-683c6ab763d9.png" ,WorkPoint
+https://ctrl.laotv.la/live/WorkPoint/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231016/video/76532d7d-b919-48a4-b1df-e99ff30bd79b.png" ,VTV3
+https://ctrl.laotv.la/live/VTV3/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230925/video/1a2e540d-8044-4ee1-97a1-c98392d50476.png" ,Vnews
+https://ctrl.laotv.la/live/Vnews/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/a523dff8-6d4f-42dc-99c5-1fe997b928a0.jpg" ,3HD
+https://ctrl.laotv.la/live/Thai3/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/86f7db51-1add-4fe9-8272-8c008651fa96.png" ,AMARIN TV HD
+https://ctrl.laotv.la/live/AMARINTVHD/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78-1956ba229382.jpg" ,Channel 7 Thai
+https://ctrl.laotv.la/live/Thai7/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/c1291bc1-84a2-45b9-9e77-0a9f6590525c.png" ,GMM25
+https://ctrl.laotv.la/live/GMM25/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231016/video/e23d5329-670e-47ac-a90b-ae62c3c72bb8.png" ,CH8
+https://ctrl.laotv.la/live/CH8/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/3bbe12fc-c38e-4746-9deb-30392fb3d5ef.png" ,True4U
+https://ctrl.laotv.la/live/True4U/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230915/video/d6b35f52-ce43-4b2a-83ed-0e2d7245d31a.png" ,Thai5
+https://ctrl.laotv.la/live/Thai5/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230420/video/9f94a26f-4a56-407e-98e1-e54ccd4deec2.jpg" ,Mono 29
+https://ctrl.laotv.la/live/Mono29/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/20b89491-9c17-4a31-a050-193a8ba939bd.png" ,PPTV HD
+https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231016/video/beb49713-f557-4515-b9ae-b399d0bcd193.png" ,NBT Channel
+https://ctrl.laotv.la/live/NBT/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/68ba60f7-92e6-4fa3-a6cb-16e1b6e683c0.png" ,MCOT 9 HD
+https://ctrl.laotv.la/live/Mcot/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/57f8c7b4-bd8d-4ad0-954f-5445833b849a.png" ,ThaiPBS
+https://ctrl.laotv.la/live/ThaiPBS/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240403/video/1e4f5806-93a4-4730-99a5-687be2056174.png" ,True Premier1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/27df755d-8eee-410f-9531-f02293f4524e.png" ,True Premier2
+https://ctrl.laotv.la/live/TSport2/manifest.mpd
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/18e0201a-6e0f-4272-90ef-4c0f2e9a067d.png" ,Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/dcb93b69-7ba2-45c3-b7bc-344c1d7cd9b3.png" ,Beinsport 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/48fd3705-b396-407f-a3b4-5e7d2680166d.png" ,CCTV1
+https://ctrl.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/1ea30fda-1ac1-4a6a-ae87-1ef66fbe2a35.png" ,CCTV 2
+https://ctrl.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/d356c4f0-6c97-4609-9f2f-eb1949a28813.png" ,CCTV 3
+https://ctrl.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230618/video/83aae5ac-bb3a-49e6-a2d1-3e88d75e066d.png" ,TNN2 Channel
+https://ctrl.laotv.la/live/TNN2/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230618/video/821f2809-ffdb-42ff-b6eb-4331754341d7.png" ,TNN24 Channel
+https://ctrl.laotv.la/live/TNN24/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/b7e20c21-3d74-4859-951d-2821977b444b.png" ,TNN16
+https://ctrl.laotv.la/live/TNN16/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/16381d50-d117-47d8-b076-b0fe46f4ceb6.png" ,TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/b51a84bf-61a9-43a8-90a0-3826b79553c7.png" ,TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240207/video/df570aa5-4359-4f00-8ff4-20394ab4fc7a.png" ,TrueSport1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef-b1f6ba3949f6.png" ,T Sports 7
+https://ctrl.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/7b9113f2-3e2c-43a0-b5d7-46d77f80a576.png" ,HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/81d0839d-12da-4bf5-8d8f-02d4555b0514.png" ,WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/ba636ac4-ca87-488a-8504-e6c1eee31989.png" ,CNN
+https://ctrl.laotv.la/live/CNN/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/e8f8f167-9781-4078-b3db-1f72ecb95c25.png" ,Arirang
+https://ctrl.laotv.la/live/Arirang/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/e83ec239-51f6-423f-96bb-bdd0c210f8a9.png" ,NHKWorld
+https://ctrl.laotv.la/live/NHK/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231017/video/b625acd4-e8fc-4dc2-a516-050545daaa4f.png" ,ALJazeera
+https://ctrl.laotv.la/live/ALJazeera/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230618/video/d6b5780f-d6bb-4da9-a64c-de6d78124a9e.png" ,Nation TV
+https://ctrl.laotv.la/live/NationTV/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/39ddefe1-d51f-4e0d-af4a-791f10e689c1.png" ,TrueFilm
+https://ctrl.laotv.la/live/TureFilm/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/5240e50f-123d-4dc9-b69b-56c00e3c6994.png" ,Animal Planet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/9e42626d-e78a-4be4-8875-84cf06f4de30.png" ,Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230614/video/4be2196c-1c8f-4060-b8f4-3be60a32b97f.jpg" ,Cartoon Club
+https://ctrl.laotv.la/live/CartoonClub/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/feb18229-07fc-4d2f-9d7a-964bcebb0221.png" ,CartoonNetwork
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240208/video/23463be8-4e5f-4568-8464-4207a9ccb622.png" ,True Sport 7
+https://ctrl.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/b1b60188-1be6-4478-993d-6a0f3561388d.png" ,ChinaMovie
+https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/02aaf8c1-a1fe-45c9-b296-5169ce1e8156.png" ,True Sports HD
+https://ctrl.laotv.la/live/TSHD/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/4b92d7e2-99cb-4cee-b3c1-edb3db0f4624.png" ,MVTV
+https://ctrl.laotv.la/live/MVTV/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/9c002c66-b3a8-483e-aa74-1ffe5f0d52d2.png" ,COOL
+https://ctrl.laotv.la/live/COOL/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/a30a3fca-db1b-4f40-835d-2908585f4664.png" ,KBS
+https://ctrl.laotv.la/live/KBS/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/c375d6db-0e7c-4a34-add2-985ede6e3a77.png" ,DW
+https://ctrl.laotv.la/live/DW/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/c1beec3e-f9b1-4b57-91b1-ea1a894aabfd.png" ,CCTV4A
+https://ctrl.laotv.la/live/CCTV4A/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/a339d54c-97a9-4cf5-974b-be61119e6a15.png" ,CCTV5+
+https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/ad6ee1e2-7d04-41ba-a8e1-521eff63565d.png" ,CCTV7
+https://ctrl.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/544e2d8d-d9c2-475e-a78c-a664f9a8ae30.png" ,CCTV8
+https://ctrl.laotv.la/live/CCTV8/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/16d703b4-a0ed-4b5c-8b11-f94d7aabb12d.png" ,CCTV14
+https://ctrl.laotv.la/live/CCTV14/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/4fffd1af-4760-4a48-9954-885be186344a.png" ,CCTV15
+https://ctrl.laotv.la/live/CCTV15/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/ab7833c4-fb65-4947-a386-efc33545478b.png" ,SunTV
+https://ctrl.laotv.la/live/SunTV/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/b0757289-988d-4495-8f67-b0b1fd375365.png" ,CNBC
+https://ctrl.laotv.la/live/CNBC/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/4e7c4d7f-d899-496b-9fe6-21c9b4eea352.png" ,Hunan湖南卫视
+https://ctrl.laotv.la/live/Hunan/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/f08af5b8-9717-415c-94f4-29b6ce7ed750.png" ,Animal Show
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/01fdda58-c0ee-4e7f-875b-8f62e6c353b7.png" ,ABCA
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/55965c73-9d24-470c-82f8-7fff0797da23.png" ,DongsenForeignMovie
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/0985f69a-7dbf-4b71-917b-01683f486962.png" ,AomenLotus
+https://ctrl.laotv.la/live/AomenLotus/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/192bcb41-d936-4569-b7a8-ef8d64e8db4a.png" ,CCTVGolf
+https://ctrl.laotv.la/live/CCTVGolf/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/237e35a2-f645-493f-9bc3-c09be0703c3c.png" ,BosiGolf
+https://ctrl.laotv.la/live/BosiGolf/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/d1fc9a24-b1df-488b-8c7b-2c66c2d3bfc3.png" ,PhoenixNews
+https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/731fea6b-b113-4ecf-a1b1-9e64d8b954b2.png" ,PhxChinese
+https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/324011cf-64ae-4d0e-9b30-462f7a43b072.png" ,JNK hi shopping
+https://ctrl.laotv.la/live/JNKHiShoping/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/3ee884cc-2e6e-46aa-a210-77691927707f.jpeg" ,Longxiang
+https://ctrl.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20231004/video/5d445395-fc77-4b26-a4ad-188830422dc0.png" ,TPTV
+https://ctrl.laotv.la/live/TPTV/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240327/video/2a850950-8505-4bbc-a4a6-ae37ee26f62e.jpg" ,  K+ Sport 2
+https://ctrl.laotv.la/live/K+Sport2/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240327/video/c2de7723-1a8b-4102-b4ce-768ee1dc911a.png" ,VTV1
+https://ctrl.laotv.la/live/VTV1SD/index.m3u8
+#EXTINF:-1 group-title="LaoTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240328/video/e9c4e20f-cb73-40db-a5ea-2bc9a4e050ae.jpg" ,K+ Sport 1
+https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 
 
 
